@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Oefeningen\\B_Ignited\\Kata1C#\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata.csproj": {}
+  },
+  "projects": {
+    "D:\\Oefeningen\\B_Ignited\\Kata1C#\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Oefeningen\\B_Ignited\\Kata1C#\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata.csproj",
+        "projectName": "B_IgnitedPostalCodeKata",
+        "projectPath": "D:\\Oefeningen\\B_Ignited\\Kata1C#\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata.csproj",
+        "packagesPath": "C:\\Users\\tomve\\.nuget\\packages\\",
+        "outputPath": "D:\\Oefeningen\\B_Ignited\\Kata1C#\\B_IgnitedPostalCodeKata\\B_IgnitedPostalCodeKata\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

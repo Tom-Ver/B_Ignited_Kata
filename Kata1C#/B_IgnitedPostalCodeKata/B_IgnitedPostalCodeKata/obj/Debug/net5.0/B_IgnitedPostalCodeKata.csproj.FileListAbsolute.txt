@@ -1,0 +1,16 @@
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\bin\Debug\net5.0\B_IgnitedPostalCodeKata.exe
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\bin\Debug\net5.0\B_IgnitedPostalCodeKata.deps.json
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\bin\Debug\net5.0\B_IgnitedPostalCodeKata.runtimeconfig.json
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\bin\Debug\net5.0\B_IgnitedPostalCodeKata.runtimeconfig.dev.json
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\bin\Debug\net5.0\B_IgnitedPostalCodeKata.dll
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\bin\Debug\net5.0\B_IgnitedPostalCodeKata.pdb
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.csproj.AssemblyReference.cache
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.AssemblyInfoInputs.cache
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.AssemblyInfo.cs
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.csproj.CoreCompileInputs.cache
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.dll
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\refint\B_IgnitedPostalCodeKata.dll
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.pdb
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\B_IgnitedPostalCodeKata.genruntimeconfig.cache
+D:\Oefeningen\B_Ignited\Kata1C#\B_IgnitedPostalCodeKata\B_IgnitedPostalCodeKata\obj\Debug\net5.0\ref\B_IgnitedPostalCodeKata.dll

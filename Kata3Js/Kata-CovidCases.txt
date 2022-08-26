@@ -1,0 +1,12 @@
+In this exercise, you will look for confirmed covid cases in 2021 for a given month in a given country and the vaccines they are currently using. As input you read the name of a country and the name a month! As output, print the percentage of confirmed cases of the country's total population. Also, list the vaccines currently being used in this country.
+Test case example
+Input: 
+Belgium
+October
+Output
+Confirmed cases in October = 4% of the total population of Belgium
+Currently vaccinating with: Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
+API's to use:
+•	https://restcountries.com (Links to an external site.)
+•	https://covid19api.com/
+•	https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data

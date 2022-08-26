@@ -1,0 +1,22 @@
+In this exercise, you will be given a Belgian zip code as input. Using this code, you search for all Belgian postal codes that consist of one or more identical numbers.
+List the resulting zip codes along with their city name(s) (note: some places have the same zip code).
+
+Test case example
+Input: 2800
+Output (print exact same sorted list!):
+2000 - ANTWERPEN
+2020 - ANTWERPEN
+2200 - HERENTALS, Morkhoven, Noorderwijk
+2220 - Hallaar, HEIST-OP-DEN-BERG
+2222 - Itegem, Wiekevorst
+2280 - GROBBENDONK
+2288 - Bouwel
+2800 - MECHELEN, Walem
+2820 - BONHEIDEN, Rijmenam
+2880 - BORNEM, Hingene, Mariekerke, Weert
+8000 - BRUGGE, Koolkerke
+8020 - Hertsberge, OOSTKAMP, Ruddervoorde, Waardamme
+8200 - Sint-Andries, Sint-Michiels
+8800 - Beveren, Oekene, ROESELARE, Rumbeke
+8820 - TORHOUT
+8880 - LEDEGEM, Rollegem-Kapelle, Sint-Eloois-Winkel
