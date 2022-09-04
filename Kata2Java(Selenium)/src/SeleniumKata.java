@@ -3,6 +3,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -62,7 +63,12 @@ public class SeleniumKata {
 
         driver.findElement(By.xpath(addressField)).sendKeys(generator.getAddress()); //Current Address
 
-
+        driver.findElement(By.xpath(stateField)).click();
+        Actions keyDown = new Actions(driver);
+        keyDown.sendKeys(Keys.chord(Keys.DOWN, Keys.DOWN, Keys.ENTER)).perform();
+        driver.findElement(By.xpath(cityField)).click();
+        keyDown.sendKeys(Keys.chord(Keys.DOWN, Keys.DOWN, Keys.ENTER)).perform();
+        driver.findElement(By.xpath(submitBtn)).click();
         //driver.quit();
 
     }
